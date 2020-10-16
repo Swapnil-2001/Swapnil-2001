@@ -49,5 +49,12 @@
 
 </details>
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-ebon-nine.vercel.app/api?username=Swapnil-2001&show_icons=true&hide_border=true" />
+
+</details>
+
 
 [linkedin]: https://www.linkedin.com/in/swapnil-sengupta-110498198/
