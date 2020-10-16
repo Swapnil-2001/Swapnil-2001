@@ -1,6 +1,6 @@
-### Hello there, my name is Swapnil Sengupta. 👋
+## Hello there, my name is Swapnil Sengupta. 👋
 
-## I'm a second year student of Jadavpur University, Kolkata, and I have a keen interest in web development.
+### I'm a second year student of Jadavpur University, Kolkata, and I have a keen interest in web development.
 
 - 🔭 I believe in learning by doing -- I love building fun projects using the technologies I know of
 - 🌱 I’m actively learning React and (hopefully) getting better each day
