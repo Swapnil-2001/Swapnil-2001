@@ -32,7 +32,7 @@
 ### Some of my projects:
 
 - [MySpotify](https://myspotify-aa2ed.web.app/)
-- [Amazon-clone(Frontend)](https://clone-cafe3.web.app)
+- [Amazon-clone(Frontend, Fully Responsive)](https://clone-cafe3.web.app)
 - [Social Media App](https://lucid-archimedes-eeb6ef.netlify.app/)
 
 <br />
