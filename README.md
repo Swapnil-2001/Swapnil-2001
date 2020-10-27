@@ -48,7 +48,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened issue [#1266](https://github.com/LeetCode-Feedback/LeetCode-Feedback/issues/1266) to add missing testcase in [LeetCode](https://github.com/LeetCode-Feedback/LeetCode-Feedback)
+1. 💪 Opened issue [#1266](https://github.com/LeetCode-Feedback/LeetCode-Feedback/issues/1266) to add missing testcase in [LeetCode](https://github.com/LeetCode-Feedback/LeetCode-Feedback); the testcase was added
 2. 🎉 Merged PR [#116](https://github.com/Py-Contributors/AlgorithmsAndDataStructure/pull/116) in [Py-Contributors/AlgorithmsAndDataStructure](https://github.com/Py-Contributors/AlgorithmsAndDataStructure)
 3. 🎉 Merged PR [#1618](https://github.com/processing/p5.js-web-editor/pull/1618) in [processing/p5.js-web-editor](https://github.com/processing/p5.js-web-editor)
 4. 🎉 Merged PR [#27](https://github.com/ayushjainrksh/conactivity/pull/27) in [ayushjainrksh/conactivity](https://github.com/ayushjainrksh/conactivity)
