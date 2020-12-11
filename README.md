@@ -58,7 +58,7 @@
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#1694](https://github.com/processing/p5.js-web-editor/pull/1694) in [processing/p5.js-web-editor](https://github.com/processing/p5.js-web-editor)
 2. 🎉 Merged PR [#1668](https://github.com/processing/p5.js-web-editor/pull/1668) in [processing/p5.js-web-editor](https://github.com/processing/p5.js-web-editor)
-3. 💪 Opened issue [#1266](https://github.com/LeetCode-Feedback/LeetCode-Feedback/issues/1266) to add missing testcase in [LeetCode](https://github.com/LeetCode-Feedback/LeetCode-Feedback); the testcase was added
+3. 💪 Opened issues [#1266](https://github.com/LeetCode-Feedback/LeetCode-Feedback/issues/1266) and [#1584](https://github.com/LeetCode-Feedback/LeetCode-Feedback/issues/1584) to add missing testcases in [LeetCode](https://github.com/LeetCode-Feedback/LeetCode-Feedback); the testcases were added
 4. 🎉 Merged PR [#116](https://github.com/Py-Contributors/AlgorithmsAndDataStructure/pull/116) in [Py-Contributors/AlgorithmsAndDataStructure](https://github.com/Py-Contributors/AlgorithmsAndDataStructure)
 5. 🎉 Merged PR [#1618](https://github.com/processing/p5.js-web-editor/pull/1618) in [processing/p5.js-web-editor](https://github.com/processing/p5.js-web-editor)
 <!--6. 🎉 Merged PR [#27](https://github.com/ayushjainrksh/conactivity/pull/27) in [ayushjainrksh/conactivity](https://github.com/ayushjainrksh/conactivity)-->
