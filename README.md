@@ -60,7 +60,7 @@
 1. 🎉 Merged PR [#995](https://github.com/processing/p5.js-website/pull/995) in [processing/p5.js-website](https://github.com/processing/p5.js-website)
 2. 🎉 Merged PR [#1694](https://github.com/processing/p5.js-web-editor/pull/1694) in [processing/p5.js-web-editor](https://github.com/processing/p5.js-web-editor)
 3. 🎉 Merged PR [#1668](https://github.com/processing/p5.js-web-editor/pull/1668) in [processing/p5.js-web-editor](https://github.com/processing/p5.js-web-editor)
-4. 💪 Opened issues [#1266](https://github.com/LeetCode-Feedback/LeetCode-Feedback/issues/1266) and [#1584](https://github.com/LeetCode-Feedback/LeetCode-Feedback/issues/1584) to add missing testcases in [LeetCode](https://github.com/LeetCode-Feedback/LeetCode-Feedback); the testcases were added
+4. 💪 Opened issues [#1266](https://github.com/LeetCode-Feedback/LeetCode-Feedback/issues/1266), [#1584](https://github.com/LeetCode-Feedback/LeetCode-Feedback/issues/1584) and [#2200](https://github.com/LeetCode-Feedback/LeetCode-Feedback/issues/2200) to add missing testcases in [LeetCode](https://github.com/LeetCode-Feedback/LeetCode-Feedback); the testcases were added
 5. 🎉 Merged PR [#116](https://github.com/Py-Contributors/AlgorithmsAndDataStructure/pull/116) in [Py-Contributors/AlgorithmsAndDataStructure](https://github.com/Py-Contributors/AlgorithmsAndDataStructure)
 6. 🎉 Merged PR [#1618](https://github.com/processing/p5.js-web-editor/pull/1618) in [processing/p5.js-web-editor](https://github.com/processing/p5.js-web-editor)
 <!--7. 🎉 Merged PR [#991](https://github.com/processing/p5.js-website/pull/991) in [processing/p5.js-website](https://github.com/processing/p5.js-website)-->
