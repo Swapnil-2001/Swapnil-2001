@@ -54,7 +54,6 @@
 - [Leetbook](https://leetbook.netlify.app/)
 - [React-Codepen](https://codepenreact.netlify.app/)
 - [MySpotify](https://myspotify-aa2ed.web.app/)
-- [Gallery](https://photo-gallery-46ff0.web.app/)
 - [Amazon-clone (Frontend, Fully Responsive)](https://clone-cafe3.web.app)
 
 <br />
