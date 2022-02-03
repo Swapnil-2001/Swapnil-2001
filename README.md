@@ -2,20 +2,22 @@
 
 ### I'm a third year student of Jadavpur University, Kolkata, and I have a keen interest in web development.
 
-- 🔭 I believe in learning by doing -- I love building fun projects using the technologies I know
-- 🌱 I’m actively learning React and (hopefully) getting better each day
-- 👯 I'm looking forward to contributing more and more to open source projects
-- ⚡ Fun fact: I'm an ardent cricket fan
-
-### Connect with me:
-
-[<img align="left" alt="Swapnil | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+- I enjoy building projects to expand my knowledge and gain exposure to new technologies
+- Most of my work is with the MERN stack (MongoDB, Express, React, Node). I've also worked with Firebase, Sanity.io, and GraphQL
+- I like solving algorithmic puzzles 
+- This summer, I'll be working as an SDE intern at Amazon India
 
 <br />
+
+[<img align="left" alt="Swapnil | LinkedIn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/1024px-Linkedin_icon.svg.png" />][linkedin]
+
 <br />
 
-### Languages and Tools:
+## Languages and Tools:
 
+<br />
+
+<div>
 <img align="left" alt="HTML5" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
@@ -31,6 +33,8 @@
 <img align="left" alt="GraphQL" width="45px" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png" />
 <img align="left" alt="Git" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="45px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+  <img align= "left" alt="C++" width="45px src="https://e7.pngegg.com/pngimages/46/626/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template.png" />
+  </div>
 
 
 <br />
