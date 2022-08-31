@@ -1,11 +1,11 @@
-## Hello there, my name is Swapnil Sengupta. 👋
+## Hi, my name is Swapnil Sengupta. 
 
-### I'm a third year student of Jadavpur University, Kolkata, and I have a keen interest in web development.
+### I'm a final year student at Jadavpur University, Kolkata. I have a keen interest in web development.
 
-- I enjoy building projects to expand my knowledge and gain exposure to new technologies
-- Most of my work is with the MERN stack (MongoDB, Express, React, Node). I've also worked with Firebase, Sanity.io, and GraphQL
-- I like solving algorithmic puzzles 
-- This summer, I'll be working as an SDE intern at Amazon India
+- I enjoy building projects to expand my knowledge and gain exposure to new technologies.
+- Most of my work is with the **MERN stack** (MongoDB, Express, React, Node). I've also worked with Firebase, Sanity.io, and GraphQL.
+- I like solving algorithmic puzzles.
+- I interned at **Amazon India** over the summer and will be joining as an SDE next year.
 
 <br />
 
@@ -53,8 +53,6 @@
 
 - [Leetbook](https://leetbook.netlify.app/)
 - [React-Codepen](https://codepenreact.netlify.app/)
-- [MySpotify](https://myspotify-aa2ed.web.app/)
-- [Amazon-clone (Frontend, Fully Responsive)](https://clone-cafe3.web.app)
 
 <br />
 
