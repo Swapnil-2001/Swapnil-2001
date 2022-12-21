@@ -49,14 +49,6 @@
 <br />
 <br />
 
-### Some of my projects:
-
-- [Leetbook](https://leetbook.netlify.app/)
-- [React-Codepen](https://codepenreact.netlify.app/)
-
-<br />
-
-
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
 
