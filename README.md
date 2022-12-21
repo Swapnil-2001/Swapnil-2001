@@ -5,7 +5,7 @@
 - I enjoy building projects to expand my knowledge and gain exposure to new technologies.
 - Most of my work is with the **MERN stack** (MongoDB, Express, React, Node). I've also worked with Firebase, Sanity.io, and GraphQL.
 - I like solving algorithmic puzzles.
-- I interned at **Amazon India** over the summer and will be joining as an SDE next year.
+- I interned at **Amazon India** over the summer and will be joining as a Software Development Engineer next year.
 
 <br />
 
