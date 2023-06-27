@@ -38,4 +38,4 @@ I'm a Full Stack developer.
 <br/>
 
 ## Connect with me
-<a href="https://www.linkedin.com/in/swapnil-sengupta-110498198/"><img align="left" src="https://github.com/Swapnil-2001/Swapnil-2001/assets/53232360/5fe02156-c3b2-450e-a5af-e3fdb6e0553a" alt="Yu Shi | LinkedIn" width="30px"/></a>
+<a href="https://www.linkedin.com/in/swapnil-sengupta-110498198/">LinkedIn</a>
